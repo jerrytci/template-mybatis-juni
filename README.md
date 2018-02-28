@@ -1,4 +1,4 @@
-# 1-mybatis-juniTest
+# mybatis-juniTest
 mybatis一对多，多对多的juni test.
 
 1, spring注解， mybatis xml配置方式， juni test
