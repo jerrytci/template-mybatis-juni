@@ -1,4 +1,4 @@
-# mybatis-juniTest
+# template-mybatis-juni
 mybatis一对多，多对多的juni test。包含ssm template。
 
 - spring注解， mybatis xml配置方式， juni test
